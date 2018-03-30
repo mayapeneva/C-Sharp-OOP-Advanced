@@ -39,7 +39,7 @@ public class Clinic : IEnumerable<Pet>
             return false;
         }
 
-        var index = this.pets.Length / 2;
+        var index = this.Capacity / 2;
         if (this.pets[index] == null)
         {
             this.pets[index] = pet;
@@ -48,7 +48,7 @@ public class Clinic : IEnumerable<Pet>
 
         for (int i = 1; i <= index; i++)
         {
-            if (this.pets[index - 1] == null)
+            if (this.pets[index - i] == null)
             {
                 this.pets[index - i] = pet;
                 return true;
@@ -71,14 +71,14 @@ public class Clinic : IEnumerable<Pet>
             return false;
         }
 
-        var index = this.pets.Length / 2;
+        var index = this.Capacity / 2;
         if (this.pets[index] != null)
         {
             this.pets[index] = null;
             return true;
         }
 
-        for (int i = index + 1; i < this.pets.Length; i++)
+        for (int i = index + 1; i < this.Capacity; i++)
         {
             if (this.pets[i] != null)
             {

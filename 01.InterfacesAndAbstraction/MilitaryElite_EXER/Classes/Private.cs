@@ -1,6 +1,4 @@
-﻿using MilitaryElite_EXER.Interfaces;
-
-namespace MilitaryElite_EXER.Classes
+﻿namespace MilitaryElite_EXER.Classes
 {
     public class Private : Privates
     {

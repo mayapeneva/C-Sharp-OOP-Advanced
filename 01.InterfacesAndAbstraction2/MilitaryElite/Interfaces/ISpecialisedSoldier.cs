@@ -1,6 +1,4 @@
-﻿using System;
-
-public interface ISpecialisedSoldier : IPrivate
+﻿public interface ISpecialisedSoldier : IPrivate
 {
     string Corps { get; }
 }

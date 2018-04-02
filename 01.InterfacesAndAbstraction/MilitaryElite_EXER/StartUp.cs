@@ -1,8 +1,8 @@
-﻿using System;
+﻿using MilitaryElite_EXER.Classes;
+using MilitaryElite_EXER.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using MilitaryElite_EXER.Classes;
-using MilitaryElite_EXER.Interfaces;
 
 namespace MilitaryElite_EXER
 {

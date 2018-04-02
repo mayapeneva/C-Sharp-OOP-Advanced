@@ -1,6 +1,4 @@
-﻿using CollectionHierarchy_EXER.Interfaces;
-
-namespace CollectionHierarchy_EXER.Collections
+﻿namespace CollectionHierarchy_EXER.Collections
 {
     public class AddCollection : Collections
     {

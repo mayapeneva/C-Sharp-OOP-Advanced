@@ -1,5 +1,4 @@
-﻿using System.Collections.ObjectModel;
-using CollectionHierarchy_EXER.Interfaces;
+﻿using CollectionHierarchy_EXER.Interfaces;
 
 namespace CollectionHierarchy_EXER.Collections
 {

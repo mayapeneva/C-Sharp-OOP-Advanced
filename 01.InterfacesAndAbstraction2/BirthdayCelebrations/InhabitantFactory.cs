@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-public class InhabitantFactory
+﻿public class InhabitantFactory
 {
     public IBeing CreateBeing(params string[] input)
     {

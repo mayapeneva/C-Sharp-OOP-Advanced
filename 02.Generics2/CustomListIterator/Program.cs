@@ -1,5 +1,5 @@
-﻿using System;
-using CustomList;
+﻿using CustomList;
+using System;
 
 public class Program
 {

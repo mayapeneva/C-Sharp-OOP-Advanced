@@ -1,6 +1,6 @@
-﻿using System;
-using CollectionHierarchy_EXER.Collections;
+﻿using CollectionHierarchy_EXER.Collections;
 using CollectionHierarchy_EXER.Interfaces;
+using System;
 
 namespace CollectionHierarchy_EXER
 {

@@ -1,5 +1,4 @@
-﻿using MilitaryElite_EXER.Classes;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace MilitaryElite_EXER.Interfaces
 {

@@ -1,5 +1,4 @@
-﻿using System;
-using MilitaryElite_EXER.Interfaces;
+﻿using MilitaryElite_EXER.Interfaces;
 
 namespace MilitaryElite_EXER.Classes
 {

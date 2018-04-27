@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_StreamProgress", "Lab_StreamProgress\Lab_StreamProgress.csproj", "{B7DB0198-D814-4B3A-8342-0D4BBBA96576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_GraphicEditor", "Lab_GraphicEditor\Lab_GraphicEditor.csproj", "{C2384CE1-E087-44EC-B81F-4E4475AED021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_DetailsPrinter", "Lab_DetailsPrinter\Lab_DetailsPrinter.csproj", "{1BCDFC73-9D95-4AC7-AE82-EBCD4FA47263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_Recharge", "Lab_Recharge\Lab_Recharge.csproj", "{50491EF6-A8F6-4772-8C4C-6026EEF1AE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_SecurityDoor", "Lab_SecurityDoor\Lab_SecurityDoor.csproj", "{59FA289B-F48C-4B24-9356-8BACB08611E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_Blobs", "Exer_Blobs\Exer_Blobs.csproj", "{45E0A69E-1CE7-400B-9494-156695614821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exer_Logger", "Exer_Logger\Exer_Logger.csproj", "{A5F137EB-2639-4CC2-8B34-C67C8FC4FCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7DB0198-D814-4B3A-8342-0D4BBBA96576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DB0198-D814-4B3A-8342-0D4BBBA96576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DB0198-D814-4B3A-8342-0D4BBBA96576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DB0198-D814-4B3A-8342-0D4BBBA96576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2384CE1-E087-44EC-B81F-4E4475AED021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2384CE1-E087-44EC-B81F-4E4475AED021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2384CE1-E087-44EC-B81F-4E4475AED021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2384CE1-E087-44EC-B81F-4E4475AED021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCDFC73-9D95-4AC7-AE82-EBCD4FA47263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCDFC73-9D95-4AC7-AE82-EBCD4FA47263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCDFC73-9D95-4AC7-AE82-EBCD4FA47263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCDFC73-9D95-4AC7-AE82-EBCD4FA47263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50491EF6-A8F6-4772-8C4C-6026EEF1AE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50491EF6-A8F6-4772-8C4C-6026EEF1AE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50491EF6-A8F6-4772-8C4C-6026EEF1AE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50491EF6-A8F6-4772-8C4C-6026EEF1AE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FA289B-F48C-4B24-9356-8BACB08611E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FA289B-F48C-4B24-9356-8BACB08611E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FA289B-F48C-4B24-9356-8BACB08611E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FA289B-F48C-4B24-9356-8BACB08611E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E0A69E-1CE7-400B-9494-156695614821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E0A69E-1CE7-400B-9494-156695614821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E0A69E-1CE7-400B-9494-156695614821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E0A69E-1CE7-400B-9494-156695614821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F137EB-2639-4CC2-8B34-C67C8FC4FCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F137EB-2639-4CC2-8B34-C67C8FC4FCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F137EB-2639-4CC2-8B34-C67C8FC4FCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F137EB-2639-4CC2-8B34-C67C8FC4FCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA0098DF-4A58-42E1-9A65-B5840777711D}
+	EndGlobalSection
+EndGlobal
